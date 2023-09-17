@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Purba Dasss"
+name                     : &name "Purba Das"
 description              : &description "Lecturer in Financial Mathematics, Department of Mathematics at King's College London
 url                      : https://daspurba.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Purba Das"
+  name             : "Purba Dasshh"
   avatar           : "purba1.png"
   bio              : "Lecturer in Financial Mathematics, Department of Mathematics"
   location         : "Office: S5.41, Strand Building, Strand Campus"
