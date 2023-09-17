@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Purba Das"
-description              : &description "Lecturer in Financial Mathematics, Department of Mathematics at King's College London
+description              : &description "Byrne Research Assistant Professor of Mathematics at the University of Michigan"
 url                      : https://daspurba.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : "daspurba/daspurba.github.io"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : ""
+    email                : "das@maths.ox.ac.uk"
   generatedFields:
     date:
       type               : "date"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Purba Das"
   avatar           : "purba1.png"
-  bio              : "Lecturer in Financial Mathematics, Department of Mathematics"
-  location         : "Office: S5.41, Strand Building, Strand Campus"
-  employer         : "King's College London"
+  bio              : "Byrne Research Assistant Professor of Mathematics at the University of Michigan"
+  location         : "Office: 1833, East Hall"
+  employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=LbzAOCcAAAAJ&hl=en"
-  email            : "purba.das@kcl.ac.uk"
+  googlescholar    : 
+  email            : "purbadas@umich.edu"
   researchgate     : "https://www.researchgate.net/profile/Purba-Das-2"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-2692-969X"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
