@@ -86,8 +86,8 @@ author:
   location         : "Office: S5.41, Strand Building"
   employer         : "King's College London"
   pubmed           : 
-  googlescholar    : 
-  email            : "purbadas@umich.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=LbzAOCcAAAAJ&hl=en"
+  email            : "purba.das@kcl.ac.uk"
   researchgate     : "https://www.researchgate.net/profile/Purba-Das-2"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0002-2692-969X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
