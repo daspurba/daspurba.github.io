@@ -4,9 +4,9 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
-1. ***Invited talk, London financial mathematics seminar.*** Oct 2023, London
+1. Oct 2023 ***Invited talk, London financial mathematics seminar.*** London
 
-1. ***Invited talk, Stochastic finance seminar, University of Warwick.*** Oct 2023, Warwick
+1. Oct 2023 ***Invited talk, Stochastic finance seminar, University of Warwick.*** Warwick
 
 1. Oct 2023 ***Invited talk, Probability seminar, University of Manchester.*** Manchester
 
