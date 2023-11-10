@@ -2,14 +2,15 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: false
+author_profile: true
 redirect_from:
   - /resume
 ---
 
-Please find my [CV](../files/CV.pdf) here.
+
 
 <!--
+Please find my [CV](../files/CV.pdf) here.
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
