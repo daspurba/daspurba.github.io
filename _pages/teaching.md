@@ -4,7 +4,9 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-Primary Instructor (Michigan): MATH 423- Mathematics of finance, Math 526/Stat 526 Discrete stochastic process.
+Primary Instructor (KCL): 6CCM338A-Mathematical Finance II (Winter 2024).
+
+Primary Instructor (Michigan): MATH 423- Mathematics of finance (Fall 2022), Math 526/Stat 526 Discrete stochastic process (Winter 2023).
 
 Tutor (Oxford):  B8.1 Probability, Measure and Martingales, B8.2 Continuous Martingales and Stochastic Calculus, Part C (MCF) Stochastic calculus, Part C (MCF) Optimisation.
 
