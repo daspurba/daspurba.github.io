@@ -9,7 +9,7 @@ author_profile: true
 * [R. Cont](http://rama.cont.perso.math.cnrs.fr/), P. Das. _Measuring roughness of signals_. [Working paper 2023+]()
 
 * [Witold Bednorz](https://www.mimuw.edu.pl/~wbednorz/english.htm), P. Das, [R. Łochowski](https://web.sgh.waw.pl/~rlocho/index.html),  _Local times of deterministic paths and self-similar processes with
-  stationary increments as normalized numbers of interval crossings_. [Arxiv]()
+  stationary increments as normalized numbers of interval crossings_. [Arxiv](https://arxiv.org/abs/2312.05570)
 
 * P. Das, [R. Łochowski](https://web.sgh.waw.pl/~rlocho/index.html), [T. Matsuda](https://toyomumatsuda.github.io/), [N. Perkowski](https://www.mi.fu-berlin.de/math/groups/stoch/members/Professors/perkowski.html) _Level crossings of fractional Brownian motion_. [Arxiv](https://arxiv.org/abs/2308.08274)
 
