@@ -12,8 +12,9 @@ redirect_from:
 
 I am co-organising a conference on Stochastic Calculus and its applications to Finance at <i>[IIT Madras, India](https://math.iitm.ac.in/)</i> as well as <i><b>online</b></i>. Check out the conference page [<i>here</i>](https://ge.iitm.ac.in/spde-2024/) for more information.
 
-<h2>Conference dates: June 3-5, 2024</h2>
-<h2>Registration deadline: April 30, 2024.</h2>
+<b>Conference dates: June 3-5, 2024</b>
+
+<b>Registration deadline: April 30, 2024.</b>
 
 <!--
 [_International Conference on Stochastic Calculus and Application to Finance- with a focus towards Functional Ito Calculus and Stochastic PDEs in distribution space_](https://ge.iitm.ac.in/spde-2024/)
