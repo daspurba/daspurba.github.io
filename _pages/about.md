@@ -18,3 +18,8 @@ My research interests lie in the fields of stochastic analysis and its applicati
 Pathwise methods in stochastic analysis: Föllmer-Itô calculus,  'roughness' of functions.
 
 Roughness in finance: Rough volatility, Microstructure noise.
+
+---
+**Conference Announcement**
+---
+_INTERNATIONAL CONFERENCE ON STOCHASTIC CALCULUS AND APPLICATIONS TO FINANCE - with a focus towards Functional Ito Calculus and Stochastic PDEs in distribution space_
