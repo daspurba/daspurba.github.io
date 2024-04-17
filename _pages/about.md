@@ -21,7 +21,8 @@ Roughness in finance: Rough volatility, Microstructure noise.
 
 ---
 **Conference Announcement**
----
+------
+
 [_INTERNATIONAL CONFERENCE ON STOCHASTIC CALCULUS AND APPLICATIONS TO FINANCE - with a focus towards Functional Ito Calculus and Stochastic PDEs in distribution space_](https://ge.iitm.ac.in/spde-2024/)
 
 Registration deadline: 30 th April 
