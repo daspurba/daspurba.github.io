@@ -1,14 +1,12 @@
 ---
 permalink: /about/
+excerpt: "About me"
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<!---
-title: "About me"
-excerpt: "About me"
-author_profile: true
---->
+<!--title: "About me"-->
 
 <h1>Conference Announcement</h1>
 
