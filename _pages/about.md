@@ -7,9 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 
-
-Conference Announcement
 ------
+Conference Announcement
 
 [_International Conference on Stochastic Calculus and Application to Finance- with a focus towards Functional Ito Calculus and Stochastic PDEs in distribution space_](https://ge.iitm.ac.in/spde-2024/)
 
