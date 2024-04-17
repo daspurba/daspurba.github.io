@@ -20,11 +20,14 @@ Pathwise methods in stochastic analysis: Föllmer-Itô calculus,  'roughness' of
 Roughness in finance: Rough volatility, Microstructure noise.
 
 ---
-**Conference Announcement**
+Conference Announcement
 ------
 
-[_INTERNATIONAL CONFERENCE ON STOCHASTIC CALCULUS AND APPLICATIONS TO FINANCE - with a focus towards Functional Ito Calculus and Stochastic PDEs in distribution space_](https://ge.iitm.ac.in/spde-2024/)
+<font size="+2">[_International Conference on Stochastic Calculus and Application to Finance- with a focus towards Functional Ito Calculus and Stochastic PDEs in distribution space_](https://ge.iitm.ac.in/spde-2024/)
 
-Registration deadline: 30 th April 
+[Registration deadline](https://ge.iitm.ac.in/forms/conference-registration): 30 th April 
 
 Conference date: 3-5th June
+
+Conference Venue: IIT-Madras, India and Online
+
