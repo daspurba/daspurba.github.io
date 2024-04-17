@@ -20,6 +20,7 @@ Pathwise methods in stochastic analysis: Föllmer-Itô calculus,  'roughness' of
 Roughness in finance: Rough volatility, Microstructure noise.
 
 ---
+
 Conference Announcement
 ------
 
