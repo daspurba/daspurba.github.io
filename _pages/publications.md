@@ -15,7 +15,8 @@ author_profile: true
 
 * [E. Bayraktar](https://sites.lsa.umich.edu/erhan/), P. Das, [D. Kim](https://sites.google.com/view/donghan-kim) _H\"older regularity and roughness: construction and examples_. [Accepted for publication in Bernoulli](https://arxiv.org/abs/2304.13794)
 
-* [R. Cont](http://rama.cont.perso.math.cnrs.fr/), P. Das. _Rough Volatility: Fact or Artefact?_. [Sankhya B](https://ssrn.com/abstract=4065951 )
+* [R. Cont](http://rama.cont.perso.math.cnrs.fr/), P. Das. _Rough Volatility: Fact or Artefact?_. [Sankhya B - Volume 86, pages 191–223, (2024)
+](https://link.springer.com/article/10.1007/s13571-024-00322-2)
 
 * [R. Cont](http://rama.cont.perso.math.cnrs.fr/), P. Das. _Quadratic variation along refining partitions: Constructions and examples_. [Journal of Mathematical Analysis and Applications - Volume 512, 126173](https://www.sciencedirect.com/science/article/pii/S0022247X22001871) 
 
