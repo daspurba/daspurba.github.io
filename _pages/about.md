@@ -29,7 +29,7 @@ Conference Venue: IIT-Madras, India and Online
 
 <h1>About me</h1>
 
-I am currently a Lecturer in Financial Mathematics in the Department of Mathematics at King's College London. Before KCL, I was a Byrne Research Assistant Professor of Mathematics at the University of Michigan for one year. I completed my DPhil in Mathematical Institute at the University of Oxford under the supervision of [Professor Rama Cont](http://rama.cont.perso.math.cnrs.fr/). I received my Bachelor’s degree in Mathematics and Computer Science from Chennai Mathematical Institute, India in 2016 and Master's degree in Applied Mathematics from Chennai Mathematical Institute, India in 2018. 
+I am a Lecturer (Assistant professor) in Financial Mathematics in the Department of Mathematics at King's College London. Before KCL, I was a Byrne Research Assistant Professor of Mathematics at the University of Michigan for one year. I completed my DPhil in Mathematical Institute at the University of Oxford under the supervision of [Professor Rama Cont](http://rama.cont.perso.math.cnrs.fr/). I received my Bachelor’s degree in Mathematics and Computer Science from Chennai Mathematical Institute, India in 2016 and Master's degree in Applied Mathematics from Chennai Mathematical Institute, India in 2018. 
 
 
 <h1>Research interests</h1>
