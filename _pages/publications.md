@@ -8,8 +8,7 @@ author_profile: true
 
 * [R. Cont](http://rama.cont.perso.math.cnrs.fr/), P. Das. _Measuring roughness of signals_. [Working paper 2023+]()
  
-* P. Das, [D. Kim](https://sites.google.com/view/donghan-kim) _On isomorphism of the space of α-H\"older continuous functions with finite p-th variation.
-. [Arxiv ](https://arxiv.org/abs/2409.00652)
+* P. Das, [D. Kim](https://sites.google.com/view/donghan-kim) _On isomorphism of the space of α-H\"older continuous functions with finite p-th variation_. [Arxiv ](https://arxiv.org/abs/2409.00652)
 
 * [Witold Bednorz](https://www.mimuw.edu.pl/~wbednorz/english.htm), P. Das, [R. Łochowski](https://web.sgh.waw.pl/~rlocho/index.html),  _Local times of deterministic paths and self-similar processes with
   stationary increments as normalized numbers of interval crossings_. [Accepted for publication in Annales de l’Institut Henri Poincaré](https://arxiv.org/abs/2312.05570)
