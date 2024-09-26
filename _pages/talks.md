@@ -4,6 +4,13 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+1. Sep 2024 ***Invited talk, Mathematical insights from markets, control, and learning.*** France
+
+1. June 2024 ***Invited talk, Mathematics Seminar, Chennai Mathematical Institute.*** India
+
+1. June 2024 ***International Conference on Stochastic Calculus and
+Applications to Finance, IIT Madras.*** India
+
 1. May 2024 ***Invited talk, Analysis seminar, King's College London.*** London
 
 1. Apr 2024 ***Invited talk, Probability and Applications seminar, Queen Mary.*** London
