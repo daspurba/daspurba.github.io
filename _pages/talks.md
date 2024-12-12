@@ -4,6 +4,9 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+
+1. Nov 2024 ***Invited talk, Quantminds International 2024.*** London
+ 
 1. Sep 2024 ***Invited talk, Mathematical insights from markets, control, and learning.*** France
 
 1. June 2024 ***Invited talk, Mathematics Seminar, Chennai Mathematical Institute.*** India
