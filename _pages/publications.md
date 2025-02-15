@@ -13,7 +13,7 @@ author_profile: true
 * [Witold Bednorz](https://www.mimuw.edu.pl/~wbednorz/english.htm), P. Das, [R. Łochowski](https://web.sgh.waw.pl/~rlocho/index.html),  _Local times of deterministic paths and self-similar processes with
   stationary increments as normalized numbers of interval crossings_. [Accepted for publication in Annales de l’Institut Henri Poincaré](https://arxiv.org/abs/2312.05570)
 
-* P. Das, [R. Łochowski](https://web.sgh.waw.pl/~rlocho/index.html), [T. Matsuda](https://toyomumatsuda.github.io/), [N. Perkowski](https://www.mi.fu-berlin.de/math/groups/stoch/members/Professors/perkowski.html) _Level crossings of fractional Brownian motion_. [ [Accepted for publication in Annals of Probability](https://arxiv.org/abs/2308.08274)
+* P. Das, [R. Łochowski](https://web.sgh.waw.pl/~rlocho/index.html), [T. Matsuda](https://toyomumatsuda.github.io/), [N. Perkowski](https://www.mi.fu-berlin.de/math/groups/stoch/members/Professors/perkowski.html) _Level crossings of fractional Brownian motion_. [Accepted for publication in Annals of Probability](https://arxiv.org/abs/2308.08274)
 
 * [E. Bayraktar](https://sites.lsa.umich.edu/erhan/), P. Das, [D. Kim](https://sites.google.com/view/donghan-kim) _H\"older regularity and roughness: construction and examples_. [Accepted for publication in Bernoulli](https://arxiv.org/abs/2304.13794)
 
