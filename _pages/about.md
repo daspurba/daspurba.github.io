@@ -17,7 +17,7 @@ redirect_from:
     text-align: center;
     font-family: Arial, sans-serif;
     box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.15);
-    max-width: 600px;
+    max-width: 800px;
     margin-left: auto;
     margin-right: auto;
 ">
