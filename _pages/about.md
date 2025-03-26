@@ -41,7 +41,7 @@ redirect_from:
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSfvIO5Yi5o0ymu4vOrJsC9IFfTaYHzzqOxl_AU2FdEPhtge5g/viewform" 
            target="_blank" 
            style="color: #28a745; text-decoration: none;">
-           Registration Link (Registration is free but mandatory for logistic reason)
+           Registration Link (Registration is free but mandatory for logistic reasons)
         </a>
     </p>
 </div>
@@ -49,7 +49,7 @@ redirect_from:
 
 <h1>About me</h1>
 
-I am a Lecturer (Assistant professor) in Financial Mathematics in the Department of Mathematics at King's College London. Before KCL, I was a Byrne Research Assistant Professor of Mathematics at the University of Michigan for one year. I completed my DPhil in Mathematical Institute at the University of Oxford under the supervision of [Professor Rama Cont](http://rama.cont.perso.math.cnrs.fr/). I received my Bachelor’s degree in Mathematics and Computer Science from Chennai Mathematical Institute, India in 2016 and Master's degree in Applied Mathematics from Chennai Mathematical Institute, India in 2018. 
+I am a Lecturer (Assistant Professor) in Financial Mathematics in the Department of Mathematics at King's College London [(university webpage)](https://www.kcl.ac.uk/people/purba-das). Before KCL, I was a Byrne Research Assistant Professor of Mathematics at the University of Michigan for one year. I completed my DPhil in Mathematical Institute at the University of Oxford under the supervision of [Professor Rama Cont](http://rama.cont.perso.math.cnrs.fr/). I received my Bachelor’s degree in Mathematics and Computer Science from Chennai Mathematical Institute, India in 2016 and Master's degree in Applied Mathematics from Chennai Mathematical Institute, India in 2018. 
 
 
 <h1>Research interests</h1>
