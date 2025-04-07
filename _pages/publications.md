@@ -11,11 +11,11 @@ author_profile: true
 * P. Das, [D. Kim](https://sites.google.com/view/donghan-kim) _On isomorphism of the space of α-H\"older continuous functions with finite p-th variation_. [Arxiv ](https://arxiv.org/abs/2409.00652)
 
 * [Witold Bednorz](https://www.mimuw.edu.pl/~wbednorz/english.htm), P. Das, [R. Łochowski](https://web.sgh.waw.pl/~rlocho/index.html),  _Local times of deterministic paths and self-similar processes with
-  stationary increments as normalized numbers of interval crossings_. [Accepted for publication in Annales de l’Institut Henri Poincaré](https://arxiv.org/abs/2312.05570)
+  stationary increments as normalized numbers of interval crossings_. [Accepted for publication in Annales de l’Institut Henri Poincaré](https://imstat.org/journals-and-publications/annales-de-linstitut-henri-poincare/annales-de-linstitut-henri-poincare-accepted-papers/)
 
 * P. Das, [R. Łochowski](https://web.sgh.waw.pl/~rlocho/index.html), [T. Matsuda](https://toyomumatsuda.github.io/), [N. Perkowski](https://www.mi.fu-berlin.de/math/groups/stoch/members/Professors/perkowski.html) _Level crossings of fractional Brownian motion_. [Accepted for publication in Annals of Probability](https://arxiv.org/abs/2308.08274)
 
-* [E. Bayraktar](https://sites.lsa.umich.edu/erhan/), P. Das, [D. Kim](https://sites.google.com/view/donghan-kim) _H\"older regularity and roughness: construction and examples_. [Accepted for publication in Bernoulli](https://arxiv.org/abs/2304.13794)
+* [E. Bayraktar](https://sites.lsa.umich.edu/erhan/), P. Das, [D. Kim](https://sites.google.com/view/donghan-kim) _H\"older regularity and roughness: construction and examples_. [Bernoulli](https://projecteuclid.org/journals/bernoulli/volume-31/issue-2/H%C3%B6lder-regularity-and-roughness-Construction-and-examples/10.3150/24-BEJ1761.full)
 
 * [R. Cont](http://rama.cont.perso.math.cnrs.fr/), P. Das. _Rough Volatility: Fact or Artefact?_. [Sankhya B - Volume 86, pages 191–223, (2024)
 ](https://link.springer.com/article/10.1007/s13571-024-00322-2)
