@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 * Artur Kotlicki, P. Das, Virginia Pugliese, _X marks the bank: digitalisation and depositor runs_. [Working Paper](https://papers.ssrn.com/sol3/DisplayAbstractSearch.cfm)
+
+* Suprio Bhar, P. Das, Barun Sarkar, _Pathwise Itˆo isometry for scaled quadratic variation_. [ArXiv]()
+  
 * P. Das. _Pathwise Dubins-Schwarz theorem_. [Working paper 2023+]()
 
 * [R. Cont](http://rama.cont.perso.math.cnrs.fr/), P. Das. _Measuring roughness of signals_. [Working paper 2023+]()
