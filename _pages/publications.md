@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* Artur Kotlicki, P. Das, Virginia Pugliese, _X marks the bank: digitalisation and depositor runs_. [Working Paper](https://papers.ssrn.com/sol3/DisplayAbstractSearch.cfm)
+* Artur Kotlicki, P. Das, Virginia Pugliese, _X marks the bank: digitalisation and depositor runs_. [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5231564)
 
 * Suprio Bhar, P. Das, Barun Sarkar, _Pathwise Itˆo isometry for scaled quadratic variation_. [ArXiv]()
   
