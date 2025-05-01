@@ -4,6 +4,7 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+1. May 2025 ***Invited talk, Probability seminar, University of Leeds 2025.*** Leeds
 
 1. Nov 2024 ***Invited talk, Quantminds International 2024.*** London
  
