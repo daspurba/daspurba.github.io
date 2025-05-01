@@ -19,7 +19,9 @@ redirect_from:
     <h2>Conference Organization</h2>
     <ul>
       <li><strong> Co-organiser with Barun Sarkar and Suprio Bhar</strong>, International Conference on Stochastic Calculus and Applications to Finance- with a focus towards Functional Itô calculus and Stochastic PDEs in distribution space, June 2024</li>
-      <li><strong>Co-Organizer with Artur Kotlicki (Bank of England)</strong>, Conference on Liquidity Stresses and Financial Stability, April 2025</li>
+      <li><strong>Co-Organizer with Artur Kotlicki (Bank of England)</strong>, <a href="https://www.kcl.ac.uk/events/conference-on-liquidity-stresses-and-financial-stability">
+        Conference on Liquidity Stresses and Financial Stability
+      </a>, April 2025</li>
     </ul>
   </section>
 
