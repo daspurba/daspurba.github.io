@@ -6,9 +6,9 @@ author_profile: true
 ---
 * Artur Kotlicki, P. Das, Virginia Pugliese, _X marks the bank: digitalisation and depositor runs_. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5231564" target="_blank" rel="noopener noreferrer">SSRN</a>
 
-* Suprio Bhar, P. Das, Barun Sarkar, _Pathwise Itˆo isometry for scaled quadratic variation_. [ArXiv](https://arxiv.org/abs/2504.18290)
+* Suprio Bhar, P. Das, Barun Sarkar, _Pathwise Itˆo isometry for scaled quadratic variation_. <a href="https://arxiv.org/abs/2504.18290" target="_blank" rel="noopener noreferrer">ArXiv</a>
    
-* P. Das, [D. Kim](https://sites.google.com/view/donghan-kim) _On isomorphism of the space of α-H\"older continuous functions with finite p-th variation_. [Arxiv ](https://arxiv.org/abs/2409.00652)
+* P. Das, [D. Kim](https://sites.google.com/view/donghan-kim) _On isomorphism of the space of α-H\"older continuous functions with finite p-th variation_. <a href="https://arxiv.org/abs/2409.00652" target="_blank" rel="noopener noreferrer">ArXiv</a>
 
 * [Witold Bednorz](https://www.mimuw.edu.pl/~wbednorz/english.htm), P. Das, [R. Łochowski](https://web.sgh.waw.pl/~rlocho/index.html),  _Local times of deterministic paths and self-similar processes with
   stationary increments as normalized numbers of interval crossings_. [Accepted for publication in Annales de l’Institut Henri Poincaré](https://imstat.org/journals-and-publications/annales-de-linstitut-henri-poincare/annales-de-linstitut-henri-poincare-accepted-papers/)
