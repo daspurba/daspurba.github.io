@@ -7,6 +7,21 @@ redirect_from:
   - /resume
 ---
 
+<section>
+    <h2>Grants</h2>
+    <ul>
+      <li><strong>Jointly Funded Bilateral Mobility Program - Partnership Collaboration Awards between Indian Institute of Technology Madras and King’s College London</strong> – This grant is jointly received with Barun Sarkar from IIT Madras, Total grant amount £10,000</li>
+      <li><strong> NMES Enterprise & Engagement Partnerships Fund, King’s College London </strong> - Total grant amount £5,000</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Conference Organization</h2>
+    <ul>
+      <li><strong> Co-organiser with Barun Sarkar and Suprio Bhar</strong>, International Conference on Stochastic Calculus and Applications to Finance- with a focus towards Functional Itô calculus and Stochastic PDEs in distribution space, June 2024</li>
+      <li><strong>Co-Organizer with Artur Kotlicki (Bank of England)</strong>, Conference on Liquidity Stresses and Financial Stability, April 2025</li>
+    </ul>
+  </section>
 
 
 <!--
