@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Grant and Conference organisation"
-permalink: /Grants/
+permalink: /CV/
 author_profile: true
 redirect_from:
   - /resume
