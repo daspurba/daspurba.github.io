@@ -8,7 +8,8 @@ author_profile: true
 
 * Suprio Bhar, P. Das, Barun Sarkar, _Pathwise Itˆo isometry for scaled quadratic variation_. <a href="https://arxiv.org/abs/2504.18290" target="_blank" rel="noopener noreferrer">ArXiv</a>
    
-* P. Das, [D. Kim](https://sites.google.com/view/donghan-kim) _On isomorphism of the space of α-H\"older continuous functions with finite p-th variation_. <a href="https://arxiv.org/abs/2409.00652" target="_blank" rel="noopener noreferrer">ArXiv</a>
+* P. Das, [D. Kim](https://sites.google.com/view/donghan-kim) _On isomorphism of the space of α-H\"older continuous functions with finite p-th variation_. <a href="https://arxiv.org/abs/2409.00652" target="_blank" rel="noopener noreferrer">Accepted for publication at Journal de mathématiques pures et appliquées
+</a>
 
 * [Witold Bednorz](https://www.mimuw.edu.pl/~wbednorz/english.htm), P. Das, [R. Łochowski](https://web.sgh.waw.pl/~rlocho/index.html),  _Local times of deterministic paths and self-similar processes with
   stationary increments as normalized numbers of interval crossings_. [Accepted for publication in Annales de l’Institut Henri Poincaré](https://imstat.org/journals-and-publications/annales-de-linstitut-henri-poincare/annales-de-linstitut-henri-poincare-accepted-papers/)
