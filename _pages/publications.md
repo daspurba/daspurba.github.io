@@ -16,7 +16,7 @@ author_profile: true
 
 * P. Das, [R. Łochowski](https://web.sgh.waw.pl/~rlocho/index.html), [T. Matsuda](https://toyomumatsuda.github.io/), [N. Perkowski](https://www.mi.fu-berlin.de/math/groups/stoch/members/Professors/perkowski.html) _Level crossings of fractional Brownian motion_. [Accepted for publication in Annals of Probability](https://arxiv.org/abs/2308.08274)
 
-* [E. Bayraktar](https://sites.lsa.umich.edu/erhan/), P. Das, [D. Kim](https://sites.google.com/view/donghan-kim) _H\"older regularity and roughness: construction and examples_. [Bernoulli](https://projecteuclid.org/journals/bernoulli/volume-31/issue-2/H%C3%B6lder-regularity-and-roughness-Construction-and-examples/10.3150/24-BEJ1761.full)
+* [E. Bayraktar](https://sites.lsa.umich.edu/erhan/), P. Das, [D. Kim](https://sites.google.com/view/donghan-kim) _H\"older regularity and roughness: construction and examples_. [Bernoulli 31(2): 1084-1113 (May 2025). DOI: 10.3150/24-BEJ1761](https://projecteuclid.org/journals/bernoulli/volume-31/issue-2/H%C3%B6lder-regularity-and-roughness-Construction-and-examples/10.3150/24-BEJ1761.full)
 
 * P. Das. _Pathwise Dubins-Schwarz theorem_. [Working paper 2023+]()
 
