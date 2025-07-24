@@ -4,8 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* Purba Das, [Anna P. Kwossek](https://quarimafi.univie.ac.at/about-us/anna-paula-kwossek/), [David J. Prömel](https://www.wim.uni-mannheim.de/proemel/team/prof-dr-david-proemel/), _A rough path approach to pathwise stochastic integration à la Föllmer
-_. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5231564" target="_blank" rel="noopener noreferrer">SSRN</a>
+* Purba Das, [Anna P. Kwossek](https://quarimafi.univie.ac.at/about-us/anna-paula-kwossek/), [David J. Prömel](https://www.wim.uni-mannheim.de/proemel/team/prof-dr-david-proemel/), _A rough path approach to pathwise stochastic integration à la Föllmer_. <a href="https://arxiv.org/abs/2507.17363" target="_blank" rel="noopener noreferrer">ArXiv</a>
 
 * Artur Kotlicki, P. Das, Virginia Pugliese, _X marks the bank: digitalisation and depositor runs_. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5231564" target="_blank" rel="noopener noreferrer">SSRN</a>
 
