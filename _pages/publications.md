@@ -4,17 +4,20 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* Purba Das, [Anna P. Kwossek](https://quarimafi.univie.ac.at/about-us/anna-paula-kwossek/), [David J. Prömel](https://www.wim.uni-mannheim.de/proemel/team/prof-dr-david-proemel/), _A rough path approach to pathwise stochastic integration à la Föllmer
+_. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5231564" target="_blank" rel="noopener noreferrer">SSRN</a>
+
 * Artur Kotlicki, P. Das, Virginia Pugliese, _X marks the bank: digitalisation and depositor runs_. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5231564" target="_blank" rel="noopener noreferrer">SSRN</a>
 
-* Suprio Bhar, P. Das, Barun Sarkar, _Pathwise Itˆo isometry for scaled quadratic variation_. <a href="https://arxiv.org/abs/2504.18290" target="_blank" rel="noopener noreferrer">ArXiv</a>
+* [Suprio Bhar](https://home.iitk.ac.in/~suprio/Research/), P. Das, Barun Sarkar, _Pathwise Itˆo isometry for scaled quadratic variation_. <a href="https://arxiv.org/abs/2504.18290" target="_blank" rel="noopener noreferrer">ArXiv</a>
    
 * P. Das, [D. Kim](https://sites.google.com/view/donghan-kim) _On isomorphism of the space of continuous functions with finite p-th variation along a partition sequence_. <a href="https://www.sciencedirect.com/science/article/pii/S0021782425000972?via%3Dihub" target="_blank" rel="noopener noreferrer">Journal de Mathématiques Pures et Appliquées Volume 203, November 2025, 103753
 </a>
 
-* [Witold Bednorz](https://www.mimuw.edu.pl/~wbednorz/english.htm), P. Das, [R. Łochowski](https://web.sgh.waw.pl/~rlocho/index.html),  _Local times of deterministic paths and self-similar processes with
+* [Witold Bednorz](https://www.mimuw.edu.pl/~wbednorz/english.htm), P. Das, [R. Łochowski](https://rafallochowski.github.io/indexeng.html),  _Local times of deterministic paths and self-similar processes with
   stationary increments as normalized numbers of interval crossings_. [Accepted for publication in Annales de l’Institut Henri Poincaré](https://imstat.org/journals-and-publications/annales-de-linstitut-henri-poincare/annales-de-linstitut-henri-poincare-accepted-papers/)
 
-* P. Das, [R. Łochowski](https://web.sgh.waw.pl/~rlocho/index.html), [T. Matsuda](https://toyomumatsuda.github.io/), [N. Perkowski](https://www.mi.fu-berlin.de/math/groups/stoch/members/Professors/perkowski.html) _Level crossings of fractional Brownian motion_. [Accepted for publication in Annals of Probability](https://arxiv.org/abs/2308.08274)
+* P. Das, [R. Łochowski](https://rafallochowski.github.io/indexeng.html), [T. Matsuda](https://toyomumatsuda.github.io/), [N. Perkowski](https://www.mi.fu-berlin.de/math/groups/stoch/members/Professors/perkowski.html) _Level crossings of fractional Brownian motion_. [Accepted for publication in Annals of Probability](https://arxiv.org/abs/2308.08274)
 
 * [E. Bayraktar](https://sites.lsa.umich.edu/erhan/), P. Das, [D. Kim](https://sites.google.com/view/donghan-kim) _H\"older regularity and roughness: construction and examples_. [Bernoulli 31(2): 1084-1113 (May 2025). DOI: 10.3150/24-BEJ1761](https://projecteuclid.org/journals/bernoulli/volume-31/issue-2/H%C3%B6lder-regularity-and-roughness-Construction-and-examples/10.3150/24-BEJ1761.full)
 
