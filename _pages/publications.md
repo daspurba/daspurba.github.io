@@ -4,12 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+<ol reversed>
+  
 ## Under submission
-* Purba Das, [Anna P. Kwossek](https://quarimafi.univie.ac.at/about-us/anna-paula-kwossek/), [David J. Prömel](https://www.wim.uni-mannheim.de/proemel/team/prof-dr-david-proemel/), _A rough path approach to pathwise stochastic integration à la Föllmer_. <a href="https://arxiv.org/abs/2507.17363" target="_blank" rel="noopener noreferrer">ArXiv</a>
+<li> Purba Das, [Anna P. Kwossek](https://quarimafi.univie.ac.at/about-us/anna-paula-kwossek/), [David J. Prömel](https://www.wim.uni-mannheim.de/proemel/team/prof-dr-david-proemel/), _A rough path approach to pathwise stochastic integration à la Föllmer_. <a href="https://arxiv.org/abs/2507.17363" target="_blank" rel="noopener noreferrer">ArXiv</a> </li>
 
-* Artur Kotlicki, P. Das, Virginia Pugliese, _X marks the bank: digitalisation and depositor runs_. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5231564" target="_blank" rel="noopener noreferrer">SSRN</a>
+<li> Artur Kotlicki, P. Das, Virginia Pugliese, _X marks the bank: digitalisation and depositor runs_. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5231564" target="_blank" rel="noopener noreferrer">SSRN</a> </li>
 
-* [Suprio Bhar](https://home.iitk.ac.in/~suprio/Research/), P. Das, Barun Sarkar, _Pathwise Itˆo isometry for scaled quadratic variation_. <a href="https://arxiv.org/abs/2504.18290" target="_blank" rel="noopener noreferrer">ArXiv</a>
+<li> [Suprio Bhar](https://home.iitk.ac.in/~suprio/Research/), P. Das, Barun Sarkar, _Pathwise Itˆo isometry for scaled quadratic variation_. <a href="https://arxiv.org/abs/2504.18290" target="_blank" rel="noopener noreferrer">ArXiv</a> </li>
 
 ## Accepted for publication
 * [Witold Bednorz](https://www.mimuw.edu.pl/~wbednorz/english.htm), P. Das, [R. Łochowski](https://rafallochowski.github.io/indexeng.html),  _Local times of deterministic paths and self-similar processes with
@@ -41,6 +44,7 @@ author_profile: true
 
 * P. Das, [S. Das](https://www.cmi.ac.in/~sourish/), [A. Lahiri.](https://www.iittp.ac.in/dr-ananya-lahiri) _Understanding Sea Ice Melting via Functional Data Analysis_. [Current Science Vol. 115, No. 5 (10 September 2018), pp. 920-929](https://www.jstor.org/stable/26978320?seq=1)
 
+</ol>
 
 ### Working paper
 * P. Das. _Pathwise Dubins-Schwarz theorem_. [Working paper]()
