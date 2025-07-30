@@ -17,7 +17,6 @@ author_profile: true
 * [Witold Bednorz](https://www.mimuw.edu.pl/~wbednorz/english.htm), P. Das, [R. Łochowski](https://rafallochowski.github.io/indexeng.html),  _Local times of deterministic paths and self-similar processes with
   stationary increments as normalized numbers of interval crossings_. [Accepted for publication in Annales de l’Institut Henri Poincaré](https://imstat.org/journals-and-publications/annales-de-linstitut-henri-poincare/annales-de-linstitut-henri-poincare-accepted-papers/)
 
-
 * P. Das, [R. Łochowski](https://rafallochowski.github.io/indexeng.html), [T. Matsuda](https://toyomumatsuda.github.io/), [N. Perkowski](https://www.mi.fu-berlin.de/math/groups/stoch/members/Professors/perkowski.html) _Level crossings of fractional Brownian motion_. [Accepted for publication in Annals of Probability](https://arxiv.org/abs/2308.08274)
 
 ## Published
@@ -37,13 +36,11 @@ author_profile: true
 ### 2022 and earlier
 * [R. Cont](http://rama.cont.perso.math.cnrs.fr/), P. Das. _Quadratic variation along refining partitions: Constructions and examples_. [Journal of Mathematical Analysis and Applications - Volume 512, 126173](https://www.sciencedirect.com/science/article/pii/S0022247X22001871) 
 
-
-
 * P. Das, [T. Parthasarathy](https://scholar.google.com/citations?user=CpvQD2wAAAAJ&hl=en), [G. Ravindran](https://www.isichennai.res.in/~ravi/). _On Completely Mixed Stochastic Games_. [Operations Research Forum volume 3, Article number: 57 (2022)](https://link.springer.com/article/10.1007/s43069-022-00150-y#:~:text=A%20stochastic%20game%20is%20said,played%20with%20strictly%20positive%20probabilities.)
 
 * P. Das, [S. Das](https://www.cmi.ac.in/~sourish/), [A. Lahiri.](https://www.iittp.ac.in/dr-ananya-lahiri) _Understanding Sea Ice Melting via Functional Data Analysis_. [Current Science Vol. 115, No. 5 (10 September 2018), pp. 920-929](https://www.jstor.org/stable/26978320?seq=1)
 
-</ol>
+
 
 ### Working paper
 * P. Das. _Pathwise Dubins-Schwarz theorem_. [Working paper]()
