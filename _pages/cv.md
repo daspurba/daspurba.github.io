@@ -25,6 +25,14 @@ redirect_from:
     </ul>
   </section>
 
+ <section>
+    <h2>Seminar Organization</h2>
+    <ul>
+      <li><strong>  <a href="https://www.londonmathfinance.org.uk/seminar"> London Mathematical Finance Seminar Series </strong>,</a> Biweekly during term time</li>
+       <li><strong>  <a href="https://www.kcl.ac.uk/research/financial-maths"> King's College London Financial Mathematics Seminars </strong>,</a> Biweekly during term time</li> 
+    </ul>
+  </section>
+
 
 <!--
 Please find my [CV](../files/CV.pdf) here.
