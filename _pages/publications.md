@@ -47,8 +47,7 @@ author_profile: true
 
 * [R. Cont](http://rama.cont.perso.math.cnrs.fr/), P. Das. _Measuring roughness of signals_. [Working paper]()
 
-##Thesis: 
----
+## Thesis 
  
  * Purba Das _Roughness properties of paths and signals_. [Dphil Thesis--University of Oxford 2022](https://ora.ox.ac.uk/objects/uuid:d652aa3a-b4b7-4578-880a-b7bb4c2f31b0)
  * Purba Das _On completely mixed stochastic games_. [Masters Thesis-- Chennai mathematical institute 2018](https://drive.google.com/file/d/1-havnL4d1vtkf1CF13YGShW6MQ2wO5pa/view?usp=share_link)
