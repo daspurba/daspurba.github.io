@@ -7,6 +7,10 @@ author_profile: true
 
 
 ## Under submission
+
+*[Munawar Ali](https://www.math.fsu.edu/People/grads.php/?id=1925), Purba Das, [Qi Feng](https://sites.google.com/site/qifengmath/home), [Liyao Gao](https://gaoliyao.github.io/), [Guang Lin](https://www.math.purdue.edu/~lin491/) , _Noise estimation of SDE from a single data trajectory
+_. <a href="https://arxiv.org/abs/2509.25484" target="_blank" rel="noopener noreferrer">ArXiv</a> 
+
 * Purba Das, [Anna P. Kwossek](https://quarimafi.univie.ac.at/about-us/anna-paula-kwossek/), [David J. Prömel](https://www.wim.uni-mannheim.de/proemel/team/prof-dr-david-proemel/), _A rough path approach to pathwise stochastic integration à la Föllmer_. <a href="https://arxiv.org/abs/2507.17363" target="_blank" rel="noopener noreferrer">ArXiv</a> 
 
 * Artur Kotlicki, P. Das, Virginia Pugliese, _X marks the bank: digitalisation and depositor runs_. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5231564" target="_blank" rel="noopener noreferrer">SSRN</a> 
