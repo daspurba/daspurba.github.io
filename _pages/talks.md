@@ -4,7 +4,14 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
-1. May 2025 ***Invited talk, Probability seminar, University of Leeds 2025.*** Leeds
+1. Dec 2025 ***Invited talk, Financial and Actuarial Mathematics LMU and TUM.*** Munich
+
+1. Nov 2025 ***Invited talk, 12th International Conference of Image Processing, Wavelet and Applications on Real
+World Problems .*** Online, Türkiye
+
+1. Sep 2025 ***Workshop: Young Researchers in Stochastic Analysis and Stochastic Geometric Analysis .*** Lausanne
+
+1. May 2025 ***Invited talk, Probability seminar, University of Leeds.*** Leeds
 
 1. Nov 2024 ***Invited talk, Quantminds International 2024.*** London
  
