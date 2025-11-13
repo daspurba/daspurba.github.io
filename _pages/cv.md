@@ -18,10 +18,12 @@ redirect_from:
   <section>
     <h2>Conference Organization</h2>
     <ul>
-      <li><strong> Co-organiser with Barun Sarkar and Suprio Bhar</strong>, <a href="https://home.iitm.ac.in/barun/spde2024/"> International Conference on Stochastic Calculus and Applications to Finance- with a focus towards Functional Itô calculus and Stochastic PDEs in distribution space,</a> June 2024</li>
+      <li><strong> Co-organiser</strong>, <a href="https://www.londonmathfinance.org.uk/9th-london-paris-bachelier-workshop"> 9th London–Paris Bachelier Workshop,</a> Nov 2025</li>
       <li><strong>Co-Organizer with Artur Kotlicki (Bank of England)</strong>, <a href="https://www.kcl.ac.uk/events/conference-on-liquidity-stresses-and-financial-stability">
         Conference on Liquidity Stresses and Financial Stability
       </a>, April 2025</li>
+      <li><strong> Co-organiser with Barun Sarkar and Suprio Bhar</strong>, <a href="https://home.iitm.ac.in/barun/spde2024/"> International Conference on Stochastic Calculus and Applications to Finance- with a focus towards Functional Itô calculus and Stochastic PDEs in distribution space,</a> June 2024</li>
+      
     </ul>
   </section>
 
