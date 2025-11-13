@@ -23,7 +23,6 @@ redirect_from:
         Conference on Liquidity Stresses and Financial Stability
       </a>, April 2025</li>
       <li><strong> Co-organiser with Barun Sarkar and Suprio Bhar</strong>, <a href="https://home.iitm.ac.in/barun/spde2024/"> International Conference on Stochastic Calculus and Applications to Finance- with a focus towards Functional Itô calculus and Stochastic PDEs in distribution space,</a> June 2024</li>
-      
     </ul>
   </section>
 
