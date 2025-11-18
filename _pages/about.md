@@ -43,7 +43,7 @@ Roughness in finance: Rough volatility, Microstructure noise, data-driven model 
 13. <a href="https://www.math.purdue.edu/~lin491/">Guang Lin</a> – Purdue University<br>
 14. <a href="https://rafallochowski.github.io/indexeng.html">Rafał Łochowski</a> – Warsaw School of Economics<br>
 15. <a href="#">Toyomu Matsuda</a> – Man AHL, Investment Management<br>
-16. <a href="https://en.wikipedia.org/wiki/Thiruvenkatachari_Parthasarathy">T. Parthasarathy</a> – University Unknown<br>
+16. <a href="https://en.wikipedia.org/wiki/Thiruvenkatachari_Parthasarathy">T. Parthasarathy</a> – <br>
 17. <a href="https://www.mi.fu-berlin.de/math/groups/stoch/members/Professors/perkowski.html">Nicolas Perkowski</a> – Freie Universität Berlin<br>
 18. <a href="https://www.wim.uni-mannheim.de/proemel/team/prof-dr-david-proemel/">David J. Prömel</a> – University of Mannheim<br>
 19. <a href="#">Virginia Pugliese</a> – Bank of England<br>
