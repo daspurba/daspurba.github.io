@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Purba Das"
+  name             : "Dr. Purba Das"
   avatar           : "purba1.png"
   bio              : "Lecturer in Financial Mathematics, Department of Mathematics"
   location         : "Office: S5.41, Strand Building"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/purba-das-8bb846160/"
   orcid            : "https://orcid.org/0000-0002-2692-969X"
   pinterest        :
   soundcloud       :
