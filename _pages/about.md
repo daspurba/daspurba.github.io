@@ -19,9 +19,9 @@ I am a Lecturer (Assistant Professor) in Financial Mathematics in the Department
 ------
 My research interests lie in the fields of stochastic analysis and its applications to mathematical finance. In particular:
 
-Pathwise methods in stochastic analysis: Föllmer-Itô calculus,  'roughness' of functions.
+Pathwise methods in stochastic analysis: Föllmer-Itô calculus, Functional Itô calculus, Characterising/measuring 'roughness', Invariance of 'rough' integrals.
 
-Roughness in finance: Rough volatility, Microstructure noise.
+Roughness in finance: Rough volatility, Microstructure noise, data-driven model discovery, Stochastic symbolic regression.
 
 ---
 ## Collaborators (alphabetical order by last name)
@@ -39,7 +39,7 @@ Roughness in finance: Rough volatility, Microstructure noise.
 9. <a href="https://sites.google.com/view/donghan-kim">Donghan Kim</a> – KAIST<br>
 10. <a href="https://www.bankofengland.co.uk/">Artur Kotlicki</a> – Bank of England<br>
 11. <a href="https://quarimafi.univie.ac.at/about-us/anna-paula-kwossek/">Anna P. Kwossek</a> – University of Vienna<br>
-12. <a href="https://old.iittp.ac.in/dr-ananya-lahiri">Ananya Lahiri</a> – Indian Institute of Technology (IIT) Tirupati<br>
+12. <a href="https://old.iittp.ac.in/dr-ananya-lahiri">Ananya Lahiri</a> – Indian Institute of Technology Tirupati<br>
 13. <a href="https://www.math.purdue.edu/~lin491/">Guang Lin</a> – Purdue University<br>
 14. <a href="https://rafallochowski.github.io/indexeng.html">Rafał Łochowski</a> – Warsaw School of Economics<br>
 15. <a href="#">Toyomu Matsuda</a> – Man AHL, Investment Management<br>
