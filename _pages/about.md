@@ -12,7 +12,7 @@ redirect_from:
 
 <h1>About me</h1>
 
-I am a Lecturer (Assistant Professor) in Financial Mathematics in the Department of Mathematics at King's College London [(university webpage)](https://www.kcl.ac.uk/people/purba-das). Before KCL, I was a Byrne Research Assistant Professor of Mathematics at the University of Michigan for one year. I completed my DPhil in Mathematical Institute at the University of Oxford under the supervision of [Professor Rama Cont](http://rama.cont.perso.math.cnrs.fr/). I received my Bachelor’s degree in Mathematics and Computer Science from Chennai Mathematical Institute, India in 2016 and Master's degree in Applied Mathematics from Chennai Mathematical Institute, India in 2018. 
+I am a Lecturer (Assistant Professor) in Financial Mathematics in the Department of Mathematics at King's College London [(university webpage)](https://www.kcl.ac.uk/people/purba-das). Before joining KCL, I was a Byrne Research Assistant Professor of Mathematics at the University of Michigan for one year. I completed my DPhil in Mathematical Institute at the University of Oxford under the supervision of [Professor Rama Cont](http://rama.cont.perso.math.cnrs.fr/). I received my Bachelor’s degree in Mathematics and Computer Science from Chennai Mathematical Institute, India (2016) and my Master's degree in Applied Mathematics from Chennai Mathematical Institute, India (2018). 
 
 
 <h1>Research interests</h1>
@@ -43,7 +43,7 @@ Roughness in finance: Rough volatility, Microstructure noise, data-driven model 
 13. <a href="https://www.math.purdue.edu/~lin491/">Guang Lin</a> – Purdue University<br>
 14. <a href="https://rafallochowski.github.io/indexeng.html">Rafał Łochowski</a> – Warsaw School of Economics<br>
 15. <a href="#">Toyomu Matsuda</a> – Man AHL, Investment Management<br>
-16. <a href="https://en.wikipedia.org/wiki/Thiruvenkatachari_Parthasarathy">T. Parthasarathy</a> – <br>
+16. <a href="https://en.wikipedia.org/wiki/Thiruvenkatachari_Parthasarathy">T. Parthasarathy</a>  <br>
 17. <a href="https://www.mi.fu-berlin.de/math/groups/stoch/members/Professors/perkowski.html">Nicolas Perkowski</a> – Freie Universität Berlin<br>
 18. <a href="https://www.wim.uni-mannheim.de/proemel/team/prof-dr-david-proemel/">David J. Prömel</a> – University of Mannheim<br>
 19. <a href="#">Virginia Pugliese</a> – Bank of England<br>
