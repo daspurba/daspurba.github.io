@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Grant and Conference organisation"
+title: "Grant and Conference/ Seminar series organisation"
 permalink: /grants/
 author_profile: true
 redirect_from:
