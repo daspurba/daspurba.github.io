@@ -20,10 +20,12 @@ author_profile: true
 * [Witold Bednorz](https://www.mimuw.edu.pl/~wbednorz/english.htm), P. Das, [R. Łochowski](https://rafallochowski.github.io/indexeng.html),  _Local times of deterministic paths and self-similar processes with
   stationary increments as normalized numbers of interval crossings_. [Accepted for publication in Annales de l’Institut Henri Poincaré](https://imstat.org/journals-and-publications/annales-de-linstitut-henri-poincare/annales-de-linstitut-henri-poincare-accepted-papers/)
 
-* P. Das, [R. Łochowski](https://rafallochowski.github.io/indexeng.html), [T. Matsuda](https://toyomumatsuda.github.io/), [N. Perkowski](https://www.mi.fu-berlin.de/math/groups/stoch/members/Professors/perkowski.html) _Level crossings of fractional Brownian motion_. [Accepted for publication in Annals of Probability](https://arxiv.org/abs/2308.08274)
-
 ## Published
 ### 2025
+* P. Das, [R. Łochowski](https://rafallochowski.github.io/indexeng.html), [T. Matsuda](https://toyomumatsuda.github.io/), [N. Perkowski](https://www.mi.fu-berlin.de/math/groups/stoch/members/Professors/perkowski.html) _Level crossings of fractional Brownian motion_. [The Annals of Probability
+2025, Vol. 53, No. 6, 2354–2393
+](https://doi.org/10.1214/25-AOP1764)
+  
 * P. Das, [D. Kim](https://sites.google.com/view/donghan-kim) _On isomorphism of the space of continuous functions with finite p-th variation along a partition sequence_. <a href="https://www.sciencedirect.com/science/article/pii/S0021782425000972?via%3Dihub" target="_blank" rel="noopener noreferrer">Journal de Mathématiques Pures et Appliquées Volume 203, November 2025, 103753
 </a>
 
