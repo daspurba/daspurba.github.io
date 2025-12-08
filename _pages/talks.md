@@ -4,6 +4,8 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+1. Dec 2025 ***Invited talk, CDT Mathematics of Random Systems Workshop.*** Oxford
+
 1. Dec 2025 ***Invited talk, Financial and Actuarial Mathematics LMU and TUM.*** Munich
 
 1. Nov 2025 ***Invited talk, 12th International Conference of Image Processing, Wavelet and Applications on Real
