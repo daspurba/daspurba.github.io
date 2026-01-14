@@ -8,7 +8,7 @@ author_profile: true
 
 ## Under submission
 
-* [John Armstrong](https://johnarmstrongmaths.com/), Purba Das , _Gamma Hedging without Rough Paths_. <a href="https://arxiv.org/abs/" target="_blank" rel="noopener noreferrer">ArXiv</a> 
+* [John Armstrong](https://johnarmstrongmaths.com/), Purba Das , _Gamma Hedging without Rough Paths_. <a href="https://arxiv.org/abs/2601.08730" target="_blank" rel="noopener noreferrer">ArXiv</a> 
 
 * [Munawar Ali](https://www.math.fsu.edu/People/grads.php/?id=1925), Purba Das, [Qi Feng](https://sites.google.com/site/qifengmath/home), [Liyao Gao](https://gaoliyao.github.io/), [Guang Lin](https://www.math.purdue.edu/~lin491/) , _Noise estimation of SDE from a single data trajectory_. <a href="https://arxiv.org/abs/2509.25484" target="_blank" rel="noopener noreferrer">ArXiv</a> 
 
