@@ -67,8 +67,8 @@ author_profile: true
 
 <div style="column-count: 2; column-gap: 40px;">
 
-1.<a href="https://johnarmstrongmaths.com/">John Armstrong</a> – King's College London<br> 
-2. <a href="https://www.math.fsu.edu/People/grads.php/?id=1925">Munawar Ali</a> – Florida State University<br>
+1. <a href="https://www.math.fsu.edu/People/grads.php/?id=1925">Munawar Ali</a> – Florida State University<br>
+2. <a href="https://johnarmstrongmaths.com/">John Armstrong</a> – King's College London<br> 
 3. <a href="https://sites.lsa.umich.edu/erhan/">Erhan Bayraktar</a> – University of Michigan<br>
 4. <a href="https://home.iitk.ac.in/~suprio/Research/">Suprio Bhar</a> – Institution Unknown<br>
 5. <a href="https://www.mimuw.edu.pl/~wbednorz/english.htm">Witold Bednorz</a> – University of Warsaw<br>
