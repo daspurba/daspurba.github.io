@@ -7,8 +7,7 @@ author_profile: true
 
 
 ## Under submission
-* P. Das, [D. Kim](https://sites.google.com/view/donghan-kim), [Fang Rui Lim](https://lsa.umich.edu/math/people/postdoc-faculty/ruilim.html) _Banach spaces of continuous paths with finite p-th variation_. <a href="https://arxiv.org/abs/2604.05941" target="_blank" rel="noopener noreferrer">ArXiv</a> 
-</a>
+* P. Das, [D. Kim](https://sites.google.com/view/donghan-kim), [Fang Rui Lim](https://lsa.umich.edu/math/people/postdoc-faculty/ruilim.html) _Banach spaces of continuous paths with finite p-th variation_. <a href="https://arxiv.org/abs/2604.05941" target="_blank" rel="noopener noreferrer">ArXiv</a>
 
 * [John Armstrong](https://johnarmstrongmaths.com/), Purba Das , _Gamma Hedging without Rough Paths_. <a href="https://arxiv.org/abs/2601.08730" target="_blank" rel="noopener noreferrer">ArXiv</a> 
 
@@ -27,6 +26,7 @@ author_profile: true
 ### 2026
 * [Witold Bednorz](https://www.mimuw.edu.pl/~wbednorz/english.htm), P. Das, [R. Łochowski](https://rafallochowski.github.io/indexeng.html),  _Local times of deterministic paths and self-similar processes with
   stationary increments as normalized numbers of interval crossings_. [Annales de l’Institut Henri Poincaré, 62(1): 523-547 (February 2026). DOI: 10.1214/24-AIHP1519](https://projecteuclid.org/journals/annales-de-linstitut-henri-poincare-probabilites-et-statistiques/volume-62/issue-1/Local-times-of-deterministic-paths-and-self-similar-processes-with/10.1214/24-AIHP1519.short)
+  
 ### 2025
 * P. Das, [R. Łochowski](https://rafallochowski.github.io/indexeng.html), [T. Matsuda](https://toyomumatsuda.github.io/), [N. Perkowski](https://www.mi.fu-berlin.de/math/groups/stoch/members/Professors/perkowski.html) _Level crossings of fractional Brownian motion_. [The Annals of Probability
 2025, Vol. 53, No. 6, 2354–2393
