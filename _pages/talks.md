@@ -4,6 +4,12 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+1. June 2026 ***Invited talk, Department of Statistics and Operations Research, University of Vienna .*** Vienna
+
+1. May 2026 ***Invited talk, The rough path interest group, The Alan tuning institute.*** London
+   
+1. May 2026 ***Invited talk, Department of Mathematics, Ahoka University.*** India
+   
 1. Dec 2025 ***Invited talk, CDT Mathematics of Random Systems Workshop.*** Oxford
 
 1. Dec 2025 ***Invited talk, Financial and Actuarial Mathematics LMU and TUM.*** Munich
