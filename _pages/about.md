@@ -26,3 +26,14 @@ Pathwise methods in stochastic analysis: Föllmer-Itô calculus, Functional Itô
 
 Roughness in finance: Rough volatility, Microstructure noise, data-driven model discovery, Stochastic symbolic regression.
 
+
+
+<h1>Conference Anouncement</h1>
+------
+<b>Quant Finance Day at the University of York [(Link)](https://sites.google.com/view/qfday26/home?authuser=0) </b>
+  
+The Quant Finance Day is a conference that brings together researchers, practitioners and students to discuss recent developments and challenges related to data-driven methods in finance.
+
+
+
+
