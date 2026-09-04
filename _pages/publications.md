@@ -84,15 +84,16 @@ author_profile: true
 11. <a href="https://www.bankofengland.co.uk/">Artur Kotlicki</a> – Bank of England<br>
 12. <a href="https://quarimafi.univie.ac.at/about-us/anna-paula-kwossek/">Anna P. Kwossek</a> – University of Vienna<br>
 13. <a href="https://old.iittp.ac.in/dr-ananya-lahiri">Ananya Lahiri</a> – Indian Institute of Technology Tirupati<br>
-14. <a href="https://www.math.purdue.edu/~lin491/">Guang Lin</a> – Purdue University<br>
-15. <a href="https://rafallochowski.github.io/indexeng.html">Rafał Łochowski</a> – Warsaw School of Economics<br>
-16. <a href="#">Toyomu Matsuda</a> – Man AHL, Investment Management<br>
-17. <a href="https://en.wikipedia.org/wiki/Thiruvenkatachari_Parthasarathy">T. Parthasarathy</a>  <br>
-18. <a href="https://www.mi.fu-berlin.de/math/groups/stoch/members/Professors/perkowski.html">Nicolas Perkowski</a> – Freie Universität Berlin<br>
-19. <a href="https://www.wim.uni-mannheim.de/proemel/team/prof-dr-david-proemel/">David J. Prömel</a> – University of Mannheim<br>
-20. <a href="#">Virginia Pugliese</a> – Bank of England<br>
-21. <a href="https://www.isichennai.res.in/~ravi/">G. Ravindran</a> – ISI Chennai, India<br>
-22. <a href="https://scholar.google.com/citations?hl=en&user=09JaDa0AAAAJ&view_op=list_works&sortby=pubdate">Barun Sarkar</a> – IIT Madras, India<br>
+14. <a href="https://lsa.umich.edu/math/people/postdoc-faculty/ruilim.html"> Fang Rui Lim </a> – Universoty of Michigan <br> 
+15. <a href="https://www.math.purdue.edu/~lin491/">Guang Lin</a> – Purdue University<br>
+16. <a href="https://rafallochowski.github.io/indexeng.html">Rafał Łochowski</a> – Warsaw School of Economics<br>
+17. <a href="#">Toyomu Matsuda</a> – Man AHL, Investment Management<br>
+18. <a href="https://en.wikipedia.org/wiki/Thiruvenkatachari_Parthasarathy">T. Parthasarathy</a>  <br>
+19. <a href="https://www.mi.fu-berlin.de/math/groups/stoch/members/Professors/perkowski.html">Nicolas Perkowski</a> – Freie Universität Berlin<br>
+20. <a href="https://www.wim.uni-mannheim.de/proemel/team/prof-dr-david-proemel/">David J. Prömel</a> – University of Mannheim<br>
+21. <a href="#">Virginia Pugliese</a> – Bank of England<br>
+22. <a href="https://www.isichennai.res.in/~ravi/">G. Ravindran</a> – ISI Chennai, India<br>
+23. <a href="https://scholar.google.com/citations?hl=en&user=09JaDa0AAAAJ&view_op=list_works&sortby=pubdate">Barun Sarkar</a> – IIT Madras, India<br>
 
 </div>
 
