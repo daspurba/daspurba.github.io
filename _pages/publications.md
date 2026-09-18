@@ -68,7 +68,8 @@ author_profile: true
  * Purba Das _On completely mixed stochastic games_. [Masters Thesis-- Chennai mathematical institute 2018](https://drive.google.com/file/d/1-havnL4d1vtkf1CF13YGShW6MQ2wO5pa/view?usp=share_link)
  
  
- 
+ ---
+© 2026 Purba Das. All rights reserved. The PDFs on this page are provided for personal, non-commercial use only. Published versions are © their respective publishers.
  
  ---
 ## Collaborators (alphabetical order by last name)
