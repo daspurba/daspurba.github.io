@@ -7,6 +7,10 @@ author_profile: true
 
 
 ## Under submission
+* P. Das, [Alexander Schied](https://uwaterloo.ca/statistics-and-actuarial-science/profile/aschied) _Quadratic and $p$-th variation of random signed Takagi--Landsberg bridges_. <a href="/files/DasSchied.pdf" target="_blank" rel="noopener noreferrer">Link</a>
+
+
+
 * P. Das, [Donghan Kim](https://sites.google.com/view/donghan-kim), [Fang Rui Lim](https://lsa.umich.edu/math/people/postdoc-faculty/ruilim.html) _Banach spaces of continuous paths with finite p-th variation_. <a href="https://arxiv.org/abs/2604.05941" target="_blank" rel="noopener noreferrer">ArXiv</a>
 
 * [John Armstrong](https://johnarmstrongmaths.com/), Purba Das , _Gamma Hedging without Rough Paths_. <a href="https://arxiv.org/abs/2601.08730" target="_blank" rel="noopener noreferrer">ArXiv</a> 
