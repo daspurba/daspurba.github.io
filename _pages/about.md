@@ -27,6 +27,7 @@ Pathwise methods in stochastic analysis: Föllmer-Itô calculus, Functional Itô
 Roughness in finance: Rough volatility, Microstructure noise, data-driven model discovery, Stochastic symbolic regression.
 
 
+My CV can be found _here:_ <a href="/files/CV.pdf" target="_blank" rel="noopener noreferrer">Link</a>
 
 
 
