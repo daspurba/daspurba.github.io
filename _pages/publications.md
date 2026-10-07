@@ -7,8 +7,10 @@ author_profile: true
 
 
 ## Under submission
-* P. Das, [Alexander Schied](https://uwaterloo.ca/statistics-and-actuarial-science/profile/aschied) _Quadratic and $p$-th variation of random signed Takagi--Landsberg bridges_. <a href="/files/DasSchied.pdf" target="_blank" rel="noopener noreferrer">Link</a>
+* [R. Cont](http://rama.cont.perso.math.cnrs.fr/), P. Das. _Measuring roughness of a signals_. <a href="https://arxiv.org/abs/2610.05457" target="_blank" rel="noopener noreferrer">ArXiv</a>
 
+
+* P. Das, [Alexander Schied](https://uwaterloo.ca/statistics-and-actuarial-science/profile/aschied) _Quadratic and $p$-th variation of random signed Takagi--Landsberg bridges_. <a href="https://arxiv.org/abs/2609.21688" target="_blank" rel="noopener noreferrer">ArXiv</a>
 
 
 * P. Das, [Donghan Kim](https://sites.google.com/view/donghan-kim), [Fang Rui Lim](https://lsa.umich.edu/math/people/postdoc-faculty/ruilim.html) _Banach spaces of continuous paths with finite p-th variation_. <a href="https://arxiv.org/abs/2604.05941" target="_blank" rel="noopener noreferrer">ArXiv</a>
@@ -55,12 +57,6 @@ author_profile: true
 
 * P. Das, [S. Das](https://www.cmi.ac.in/~sourish/), [A. Lahiri.](https://www.iittp.ac.in/dr-ananya-lahiri) _Understanding Sea Ice Melting via Functional Data Analysis_. [Current Science Vol. 115, No. 5 (10 September 2018), pp. 920-929](https://www.jstor.org/stable/26978320?seq=1)
 
-
-
-### Working paper
-* P. Das. _Pathwise Dubins-Schwarz theorem_. [Working paper]()
-
-* [R. Cont](http://rama.cont.perso.math.cnrs.fr/), P. Das. _Measuring roughness of signals_. [Working paper]()
 
 ## Thesis 
  
