@@ -92,7 +92,7 @@ author_profile: true
   <li><a href="https://www.mi.fu-berlin.de/math/groups/stoch/members/Professors/perkowski.html">Nicolas Perkowski</a> – Freie Universität Berlin</li>
   <li><a href="https://www.wim.uni-mannheim.de/proemel/team/prof-dr-david-proemel/">David J. Prömel</a> – University of Mannheim</li>
   <li>Virginia Pugliese – Bank of England</li>
-  <li><a href="https://www.isichennai.res.in/~ravi/">G. Ravindran</a> – ISI Chennai, India</li>
+  <li><a href="https://www.isichennai.res.in/~ravi/">G. Ravindran</a> – ISI Chennai, India (Retired)</li>
   <li><a href="https://scholar.google.com/citations?hl=en&user=09JaDa0AAAAJ&view_op=list_works&sortby=pubdate">Barun Sarkar</a> – IIT Madras, India</li>
 </ol>
  
