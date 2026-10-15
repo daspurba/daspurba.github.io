@@ -4,7 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+## In preparation
+* P. Das, [Céline Esser](https://sites.google.com/view/celineesser/home), _Generalized $p$-th variation and wavelets_. Draft available on request.
 
 ## Under submission
 * [R. Cont](http://rama.cont.perso.math.cnrs.fr/), P. Das. _Measuring roughness of a signals_. <a href="https://arxiv.org/abs/2610.05457" target="_blank" rel="noopener noreferrer">ArXiv</a>
@@ -73,28 +74,29 @@ author_profile: true
 <div style="column-count: 2; column-gap: 40px;">
 
 1. <a href="https://www.math.fsu.edu/People/grads.php/?id=1925">Munawar Ali</a> – Florida State University<br>
-2. <a href="https://johnarmstrongmaths.com/">John Armstrong</a> – King's College London<br> 
-3. <a href="https://sites.lsa.umich.edu/erhan/">Erhan Bayraktar</a> – University of Michigan<br>
-4. <a href="https://home.iitk.ac.in/~suprio/Research/">Suprio Bhar</a> – Institution Unknown<br>
-5. <a href="https://www.mimuw.edu.pl/~wbednorz/english.htm">Witold Bednorz</a> – University of Warsaw<br>
-6. <a href="http://rama.cont.perso.math.cnrs.fr/">Rama Cont</a> – University of Oxford<br>
-7. <a href="https://www.cmi.ac.in/~sourish/">Sourish Das</a> – Chennai Mathematical Institute<br>
-8. <a href="https://sites.google.com/site/qifengmath/home">Qi Feng</a> – Florida State University<br>
-9. <a href="https://gaoliyao.github.io/">Liyao Gao</a> – University of Washington<br>
-10. <a href="https://sites.google.com/view/donghan-kim">Donghan Kim</a> – KAIST<br>
-11. <a href="https://www.bankofengland.co.uk/">Artur Kotlicki</a> – Bank of England<br>
-12. <a href="https://quarimafi.univie.ac.at/about-us/anna-paula-kwossek/">Anna P. Kwossek</a> – University of Vienna<br>
-13. <a href="https://old.iittp.ac.in/dr-ananya-lahiri">Ananya Lahiri</a> – Indian Institute of Technology Tirupati<br>
-14. <a href="https://lsa.umich.edu/math/people/postdoc-faculty/ruilim.html"> Fang Rui Lim </a> – Universoty of Michigan <br> 
-15. <a href="https://www.math.purdue.edu/~lin491/">Guang Lin</a> – Purdue University<br>
-16. <a href="https://rafallochowski.github.io/indexeng.html">Rafał Łochowski</a> – Warsaw School of Economics<br>
-17. <a href="#">Toyomu Matsuda</a> – Man AHL, Investment Management<br>
-18. <a href="https://en.wikipedia.org/wiki/Thiruvenkatachari_Parthasarathy">T. Parthasarathy</a>  <br>
-19. <a href="https://www.mi.fu-berlin.de/math/groups/stoch/members/Professors/perkowski.html">Nicolas Perkowski</a> – Freie Universität Berlin<br>
-20. <a href="https://www.wim.uni-mannheim.de/proemel/team/prof-dr-david-proemel/">David J. Prömel</a> – University of Mannheim<br>
-21. <a href="#">Virginia Pugliese</a> – Bank of England<br>
-22. <a href="https://www.isichennai.res.in/~ravi/">G. Ravindran</a> – ISI Chennai, India<br>
-23. <a href="https://scholar.google.com/citations?hl=en&user=09JaDa0AAAAJ&view_op=list_works&sortby=pubdate">Barun Sarkar</a> – IIT Madras, India<br>
+1. <a href="https://johnarmstrongmaths.com/">John Armstrong</a> – King's College London<br> 
+1. <a href="https://sites.lsa.umich.edu/erhan/">Erhan Bayraktar</a> – University of Michigan<br>
+1. <a href="https://home.iitk.ac.in/~suprio/Research/">Suprio Bhar</a> – Institution Unknown<br>
+1. <a href="https://www.mimuw.edu.pl/~wbednorz/english.htm">Witold Bednorz</a> – University of Warsaw<br>
+1. <a href="http://rama.cont.perso.math.cnrs.fr/">Rama Cont</a> – University of Oxford<br>
+1. <a href="https://www.uliege.be/cms/c_9054334/en/repertoire?uid=u202506">Céline Esser</a> – University of Liège<br>
+1. <a href="https://www.cmi.ac.in/~sourish/">Sourish Das</a> – Chennai Mathematical Institute<br>
+1. <a href="https://sites.google.com/site/qifengmath/home">Qi Feng</a> – Florida State University<br>
+1. <a href="https://gaoliyao.github.io/">Liyao Gao</a> – University of Washington<br>
+1. <a href="https://sites.google.com/view/donghan-kim">Donghan Kim</a> – KAIST<br>
+1. <a href="https://www.bankofengland.co.uk/">Artur Kotlicki</a> – Bank of England<br>
+1. <a href="https://quarimafi.univie.ac.at/about-us/anna-paula-kwossek/">Anna P. Kwossek</a> – University of Vienna<br>
+1. <a href="https://old.iittp.ac.in/dr-ananya-lahiri">Ananya Lahiri</a> – Indian Institute of Technology Tirupati<br>
+1. <a href="https://lsa.umich.edu/math/people/postdoc-faculty/ruilim.html"> Fang Rui Lim </a> – Universoty of Michigan <br> 
+1. <a href="https://www.math.purdue.edu/~lin491/">Guang Lin</a> – Purdue University<br>
+1. <a href="https://rafallochowski.github.io/indexeng.html">Rafał Łochowski</a> – Warsaw School of Economics<br>
+1. <a href="#">Toyomu Matsuda</a> – Man AHL, Investment Management<br>
+1. <a href="https://en.wikipedia.org/wiki/Thiruvenkatachari_Parthasarathy">T. Parthasarathy</a>  <br>
+1. <a href="https://www.mi.fu-berlin.de/math/groups/stoch/members/Professors/perkowski.html">Nicolas Perkowski</a> – Freie Universität Berlin<br>
+1. <a href="https://www.wim.uni-mannheim.de/proemel/team/prof-dr-david-proemel/">David J. Prömel</a> – University of Mannheim<br>
+1. <a href="#">Virginia Pugliese</a> – Bank of England<br>
+1. <a href="https://www.isichennai.res.in/~ravi/">G. Ravindran</a> – ISI Chennai, India<br>
+1. <a href="https://scholar.google.com/citations?hl=en&user=09JaDa0AAAAJ&view_op=list_works&sortby=pubdate">Barun Sarkar</a> – IIT Madras, India<br>
 
 </div>
 
