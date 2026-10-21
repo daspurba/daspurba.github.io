@@ -16,7 +16,8 @@ author_profile: true
 
 * P. Das, [Donghan Kim](https://sites.google.com/view/donghan-kim), [Fang Rui Lim](https://lsa.umich.edu/math/people/postdoc-faculty/ruilim.html) _Banach spaces of continuous paths with finite p-th variation_. <a href="https://arxiv.org/abs/2604.05941" target="_blank" rel="noopener noreferrer">ArXiv</a>
 
-* [John Armstrong](https://johnarmstrongmaths.com/), Purba Das , _Gamma Hedging without Rough Paths_. <a href="https://arxiv.org/abs/2601.08730" target="_blank" rel="noopener noreferrer">ArXiv</a> 
+* [John Armstrong](https://johnarmstrongmaths.com/), Purba Das , _An elementary approach to delta and gamma
+hedging, and the Black–Scholes PDE_. <a href="https://arxiv.org/abs/2601.08730" target="_blank" rel="noopener noreferrer">ArXiv</a> 
 
 * [Munawar Ali](https://www.math.fsu.edu/People/grads.php/?id=1925), Purba Das, [Qi Feng](https://sites.google.com/site/qifengmath/home), [Liyao Gao](https://gaoliyao.github.io/), [Guang Lin](https://www.math.purdue.edu/~lin491/) , _Noise estimation of SDE from a single data trajectory_. <a href="https://arxiv.org/abs/2509.25484" target="_blank" rel="noopener noreferrer">ArXiv</a> 
 
@@ -24,7 +25,8 @@ author_profile: true
 
 * Artur Kotlicki, P. Das, Virginia Pugliese, _X marks the bank: digitalisation and depositor runs_. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5231564" target="_blank" rel="noopener noreferrer">SSRN</a> 
 
-* [Suprio Bhar](https://home.iitk.ac.in/~suprio/Research/), P. Das, Barun Sarkar, _Pathwise Itˆo isometry for scaled quadratic variation_. <a href="https://arxiv.org/abs/2504.18290" target="_blank" rel="noopener noreferrer">ArXiv</a> 
+* [Suprio Bhar](https://home.iitk.ac.in/~suprio/Research/), P. Das, Barun Sarkar, _Self-normalized scaled quadratic variation
+_. <a href="https://arxiv.org/abs/2504.18290" target="_blank" rel="noopener noreferrer">ArXiv</a> 
 
 ## Accepted for publication
 
