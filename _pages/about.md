@@ -12,7 +12,7 @@ redirect_from:
 
 <h1>About me</h1>
 
-I am a Lecturer (Assistant Professor) in Financial Mathematics in the Department of Mathematics at King's College London [(university webpage)](https://www.kcl.ac.uk/people/purba-das) since Sep 2023. Before joining KCL, I was a Byrne Research Assistant Professor of Mathematics at the University of Michigan for one year (Aug 22-23). I completed my DPhil in Mathematical Institute at the University of Oxford under the supervision of [Professor Rama Cont](http://rama.cont.perso.math.cnrs.fr/) in 2022. I received my Bachelor’s degree in Mathematics and Computer Science from Chennai Mathematical Institute, India (2016) and my Master's degree in Applied Mathematics from Chennai Mathematical Institute, India (2018). 
+I am a Lecturer (Assistant Professor) in the Department of Mathematics at King's College London [(university webpage)](https://www.kcl.ac.uk/people/purba-das) since Sep 2023. Before joining KCL, I was a Byrne Research Assistant Professor of Mathematics at the University of Michigan for one year (Aug 22-23). I completed my DPhil in Mathematical Institute at the University of Oxford under the supervision of [Professor Rama Cont](http://rama.cont.perso.math.cnrs.fr/) in 2022. I received my Bachelor’s degree in Mathematics and Computer Science from Chennai Mathematical Institute, India (2016) and my Master's degree in Applied Mathematics from Chennai Mathematical Institute, India (2018). 
 
 My KCL-Pure page is [here](https://kclpure.kcl.ac.uk/portal/en/persons/purba.das/publications/).
 
@@ -24,10 +24,10 @@ My research interests lie in the fields of stochastic analysis and its applicati
 
 Pathwise methods in stochastic analysis: Föllmer-Itô calculus, Functional Itô calculus, Characterising/measuring 'roughness', Invariance of 'rough' integrals.
 
-Roughness in finance: Rough volatility, Microstructure noise, data-driven model discovery, Stochastic symbolic regression.
+Roughness in finance: Data-driven model discovery, Stochastic symbolic regression.
 
 
-My CV can be found _here:_ <a href="/files/CV.pdf" target="_blank" rel="noopener noreferrer">Link</a>
+My CV can be found _here (Sep 2026):_ <a href="/files/CV.pdf" target="_blank" rel="noopener noreferrer">Link</a>
 
 
 
